@@ -11,10 +11,19 @@ body {
 
 main {
     background-color: white;
+    box-shadow: 5px 5px 15px rgba(61, 55, 49, 0.604);
     border-radius: 10px;
     width: 600px;
     padding: 10px;
     margin: auto;
+}
+
+h1 {
+    background-image: linear-gradient(to left, #D9D16A, white);
+}
+
+h2{
+    background-image: linear-gradient(to left, #D9D16A, white)
 }
 
 p {
