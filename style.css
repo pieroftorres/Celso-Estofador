@@ -2,15 +2,16 @@
 
 * {
     font-family: 'Times New Roman', Times, serif;
-    height: 100%;
+    /*height: 100%;*/
 }
 
 body {
-    background-image: linear-gradient(left, #BFAB99);
+    background-image: linear-gradient(to left, #BFAB99, #8C634A);
 }
 
 main {
     background-color: white;
+    border-radius: 10px;
     width: 600px;
     padding: 10px;
     margin: auto;
