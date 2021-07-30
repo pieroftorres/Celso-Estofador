@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+    height: 100%;
+}
+
+body {
+    background-image: linear-gradient(left, #BFAB99);
+}
+
+p {
+    text-align: justify;
+}
