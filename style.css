@@ -19,15 +19,18 @@ main {
 }
 
 h1 {
+    font-size: 40px;
     text-align: center;
     background-image: linear-gradient(to right, #D9D16A, #A67926);
 }
 
 h2{
+    font-size: 35px;
     background-image: linear-gradient(to left, #D9D16A, white)
 }
 
 p {
+    font-size: 25px;
     text-align: justify;
 }
 
