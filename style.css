@@ -19,7 +19,8 @@ main {
 }
 
 h1 {
-    background-image: linear-gradient(to left, #D9D16A, white);
+    text-align: center;
+    background-image: linear-gradient(to right, #D9D16A, #A67926);
 }
 
 h2{
@@ -31,7 +32,5 @@ p {
 }
 
 img {
-    margin-left: auto;
-    margin-right: auto;
     border-radius: 10px;
 }
