@@ -9,6 +9,13 @@ body {
     background-image: linear-gradient(left, #BFAB99);
 }
 
+main {
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
 p {
     text-align: justify;
 }
